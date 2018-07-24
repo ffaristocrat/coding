@@ -1,0 +1,189 @@
+{
+  "commands": [
+    {
+      "class": "CommandLet",
+      "value": "0",
+      "copies": 1
+    },
+    {
+      "class": "CommandLet",
+      "value": "1",
+      "copies": 1
+    },
+    {
+      "class": "CommandLet",
+      "value": "2",
+      "copies": 1
+    },
+    {
+      "class": "CommandLet",
+      "value": "3",
+      "copies": 1
+    },
+    {
+      "class": "CommandIncrement",
+      "value": "",
+      "copies": 4
+    },
+    {
+      "class": "CommandDecrement",
+      "value": "",
+      "copies": 4
+    },
+    {
+      "class": "CommandGoto",
+      "value": "20",
+      "copies": 1
+    },
+    {
+      "class": "CommandGoto",
+      "value": "30",
+      "copies": 1
+    },
+    {
+      "class": "CommandGoto",
+      "value": "40",
+      "copies": 1
+    },
+    {
+      "class": "CommandGoto",
+      "value": "50",
+      "copies": 1
+    },
+    {
+      "class": "CommandAdd",
+      "value": "A%",
+      "copies": 1
+    },
+    {
+      "class": "CommandAdd",
+      "value": "B%",
+      "copies": 1
+    },
+    {
+      "class": "CommandAdd",
+      "value": "C%",
+      "copies": 1
+    },
+    {
+      "class": "CommandAdd",
+      "value": "D%",
+      "copies": 1
+    },
+    {
+      "class": "CommandSubtract",
+      "value": "A%",
+      "copies": 1
+    },
+    {
+      "class": "CommandSubtract",
+      "value": "B%",
+      "copies": 1
+    },
+    {
+      "class": "CommandSubtract",
+      "value": "C%",
+      "copies": 1
+    },
+    {
+      "class": "CommandSubtract",
+      "value": "D%",
+      "copies": 1
+    },
+    {
+      "class": "CommandCopy",
+      "value": "A%",
+      "copies": 1
+    },
+    {
+      "class": "CommandCopy",
+      "value": "B%",
+      "copies": 1
+    },
+    {
+      "class": "CommandCopy",
+      "value": "C%",
+      "copies": 1
+    },
+    {
+      "class": "CommandCopy",
+      "value": "D%",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggle",
+      "value": "0",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggle",
+      "value": "1",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggle",
+      "value": "2",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggle",
+      "value": "3",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggleViaVar",
+      "value": "",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggleViaVar",
+      "value": "",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggleViaVar",
+      "value": "",
+      "copies": 1
+    },
+    {
+      "class": "CommandToggleViaVar",
+      "value": "",
+      "copies": 1
+    },
+    {
+      "class": "CommandEnd",
+      "value": "",
+      "copies": 0
+    },
+    {
+      "class": "CommandClear",
+      "value": "",
+      "copies": 1
+    },
+    {
+      "class": "CommandSend",
+      "value": "",
+      "copies": 8
+    },
+    {
+      "class": "CommandDelete",
+      "value": "60",
+      "copies": 1
+    },
+    {
+      "class": "CommandDelete",
+      "value": "70",
+      "copies": 1
+    },
+    {
+      "class": "CommandDelete",
+      "value": "80",
+      "copies": 1
+    },
+    {
+      "class": "CommandDelete",
+      "value": "90",
+      "copies": 1
+    }
+  ]
+}
